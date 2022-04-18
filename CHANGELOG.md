@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.2.5](https://github.com/bcoe/slsa-github-generator-node-test/compare/v1.2.4...v1.2.5) (2022-04-18)
+
+
+### Bug Fixes
+
+* create non-matching sha ([68b3f10](https://github.com/bcoe/slsa-github-generator-node-test/commit/68b3f10a4575a5ef690175ce608a8a6d0e27cf9f))
+
 ### [1.2.4](https://github.com/bcoe/slsa-github-generator-node-test/compare/v1.2.3...v1.2.4) (2022-04-18)
 
 
