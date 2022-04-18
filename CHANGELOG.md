@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.2.3](https://github.com/bcoe/slsa-github-generator-node-test/compare/v1.2.2...v1.2.3) (2022-04-18)
+
+
+### Bug Fixes
+
+* actually publish to npm ([c354202](https://github.com/bcoe/slsa-github-generator-node-test/commit/c354202c1d12093da6b8b15c3f149fedfe53c283))
+
 ### [1.2.2](https://github.com/bcoe/slsa-github-generator-node-test/compare/v1.2.1...v1.2.2) (2022-04-18)
 
 
