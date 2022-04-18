@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.2.4](https://github.com/bcoe/slsa-github-generator-node-test/compare/v1.2.3...v1.2.4) (2022-04-18)
+
+
+### Bug Fixes
+
+* correct generator on tag ([9f506c6](https://github.com/bcoe/slsa-github-generator-node-test/commit/9f506c60631f81cde06f4ac53667d7d2d51e236d))
+
 ### [1.2.3](https://github.com/bcoe/slsa-github-generator-node-test/compare/v1.2.2...v1.2.3) (2022-04-18)
 
 
