@@ -6,6 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "license": "Apache-2.0",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/bcoe/slsa-github-generator-node-test.git"
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/bcoe/slsa-github-generator-node-test/issues"
   },
-  "homepage": "https://github.com/bcoe/slsa-github-generator-node-test#readme"
+  "homepage": "https://github.com/bcoe/slsa-github-generator-node-test#readme",
+  "dependencies": {
+    "@pkgjs/parseargs": "^0.7.1"
+  }
 }
