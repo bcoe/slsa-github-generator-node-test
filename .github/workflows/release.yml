@@ -7,9 +7,22 @@ jobs:
   release-please:
     runs-on: ubuntu-latest
     steps:
-      - uses: google-github-actions/release-please-action@v3
+      - uses: google-github-actions/release-please-action@a10fb34b7a148af96686c6981970c606164a0d82 # 3.2.0
         id: release
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           release-type: node
           bump-minor-pre-major: true
+      - uses: actions/checkout@a12a3943b4bdde767164f792f33f40b04645d846 # v2.3.4
+        # these if statements ensure that a publication only occurs when
+        # a new release is created:
+        if: ${{ steps.release.outputs.release_created }}
+      - uses: actions/setup-node@56337c425554a6be30cdef71bf441f15be286854 # v3.1.1
+        with:
+          node-version: 16
+          registry-url: 'https://wombat-dressing-room.appspot.com'
+        if: ${{ steps.release.outputs.release_created }}
+      - run: npm publish --access=public
+        env:
+          NODE_AUTH_TOKEN: ${{secrets.NPM_TOKEN}}
+        if: ${{ steps.release.outputs.release_created }}
