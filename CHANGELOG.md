@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.2.6](https://github.com/bcoe/slsa-github-generator-node-test/compare/v1.2.5...v1.2.6) (2022-04-18)
+
+
+### Bug Fixes
+
+* test release where we do not push at main ([#11](https://github.com/bcoe/slsa-github-generator-node-test/issues/11)) ([e7471e7](https://github.com/bcoe/slsa-github-generator-node-test/commit/e7471e7d65c2116adadc211a9e6f30ba924ec5f0))
+
 ### [1.2.5](https://github.com/bcoe/slsa-github-generator-node-test/compare/v1.2.4...v1.2.5) (2022-04-18)
 
 
