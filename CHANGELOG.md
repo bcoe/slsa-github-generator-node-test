@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.2.2](https://github.com/bcoe/slsa-github-generator-node-test/compare/v1.2.1...v1.2.2) (2022-04-18)
+
+
+### Bug Fixes
+
+* should be node-package-name ([187ef48](https://github.com/bcoe/slsa-github-generator-node-test/commit/187ef48589cdadaf51c7000afb26715995f8afae))
+
 ### [1.2.1](https://github.com/bcoe/slsa-github-generator-node-test/compare/v1.2.0...v1.2.1) (2022-04-18)
 
 
