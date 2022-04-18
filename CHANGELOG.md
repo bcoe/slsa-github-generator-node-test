@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/bcoe/slsa-github-generator-node-test/compare/v1.0.1...v1.1.0) (2022-04-18)
+
+
+### Features
+
+* add package-lock.json ([6956b6e](https://github.com/bcoe/slsa-github-generator-node-test/commit/6956b6efe97741940bdff08ff30234716b60fb06))
+
 ### [1.0.1](https://github.com/bcoe/slsa-github-generator-node-test/compare/v1.0.0...v1.0.1) (2022-04-18)
 
 
