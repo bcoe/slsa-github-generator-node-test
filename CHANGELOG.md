@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.0.1](https://github.com/bcoe/slsa-github-generator-node-test/compare/v1.0.0...v1.0.1) (2022-04-18)
+
+
+### Bug Fixes
+
+* do not require args as input ([bd10689](https://github.com/bcoe/slsa-github-generator-node-test/commit/bd10689f1411568b0be25569293686296cb63152))
+
 ## 1.0.0 (2022-04-18)
 
 
