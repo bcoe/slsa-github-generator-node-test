@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.2.1](https://github.com/bcoe/slsa-github-generator-node-test/compare/v1.2.0...v1.2.1) (2022-04-18)
+
+
+### Bug Fixes
+
+* publication should happen as part of SLSA ([a6fe428](https://github.com/bcoe/slsa-github-generator-node-test/commit/a6fe4284232c2daa53ea287bd6db1a128badaca0))
+
 ## [1.2.0](https://github.com/bcoe/slsa-github-generator-node-test/compare/v1.1.1...v1.2.0) (2022-04-18)
 
 
