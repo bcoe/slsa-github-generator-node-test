@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.1.1](https://github.com/bcoe/slsa-github-generator-node-test/compare/v1.1.0...v1.1.1) (2022-04-18)
+
+
+### Bug Fixes
+
+* remove unused variable ([ded13fd](https://github.com/bcoe/slsa-github-generator-node-test/commit/ded13fdca70fa27571148c47bf30b7c1a8a68b0e))
+
 ## [1.1.0](https://github.com/bcoe/slsa-github-generator-node-test/compare/v1.0.1...v1.1.0) (2022-04-18)
 
 
