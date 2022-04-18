@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.2.0](https://github.com/bcoe/slsa-github-generator-node-test/compare/v1.1.1...v1.2.0) (2022-04-18)
+
+
+### Features
+
+* also publish to npm ([5f5d53c](https://github.com/bcoe/slsa-github-generator-node-test/commit/5f5d53c693e05522283c7ab32e2ad816089d5d10))
+
+
+### Bug Fixes
+
+* add appropriate license ([5ac3c8e](https://github.com/bcoe/slsa-github-generator-node-test/commit/5ac3c8ef7884b69cefc75f0eb478dc6103aaf38c))
+
 ### [1.1.1](https://github.com/bcoe/slsa-github-generator-node-test/compare/v1.1.0...v1.1.1) (2022-04-18)
 
 
