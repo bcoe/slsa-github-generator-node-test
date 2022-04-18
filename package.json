@@ -6,12 +6,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "license": "ISC",
+  "license": "Apache-2.0",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/bcoe/slsa-github-generator-node-test.git"
   },
-  "author": "",
+  "author": "Benjamin Coe <bencoe@google.com>",
   "bugs": {
     "url": "https://github.com/bcoe/slsa-github-generator-node-test/issues"
   },
